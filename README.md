@@ -1,7 +1,7 @@
 ***
-**Mobile Devices and the Enterprise
+# Mobile Devices and the Enterprise
 ***
-![Mobile Device and the Enterprise](https://github.com/mrkem598/enterprise/blob/master/mobiledevice.jpg)
+           ![Mobile Device and the Enterprise](https://github.com/mrkem598/enterprise/blob/master/mobiledevice.jpg)
 
 
 Unlike the old time in today's business computers and mobile devices are widely used instruments in the enterprise set up. According to Pillay, Diaki, Nham, Senanayake, Deshpande, and Tan (2013) quoted from (Gartner, 2013), Bring Your Own Device (BYOD) is the “strategy that allows employees, business partners, and other users to use a personally selected and purchased client device to execute enterprise applications and access data”. Commonly used mobile devices for BYOD are laptops, tablets, and smartphones are some to mention. The definition of an enterprise can be found online ( CRM Definition, 2011), a business or a company with hundreds and thousands of employee. Having such a large number of employee and driving growth regarding the asset has the highest priority in the plan. Enterprises tend to research before implementing a new idea or guiding principles. One of longstanding arguing idea in the enterprise arena is the idea of bringing your own device in short BYOD. To fully understand the notion behind BYOD is wise to look into the challenges, and opportunities of BYOD in the enterprise technology environment will be the focus of this short essay.
@@ -17,7 +17,7 @@ Each enterprise organization should have a responsible unit for overseeing and c
  
 
 ***
-References:
+### References:
 ***
 Antonio, S (2012) New security perspectives around BYOD. [Online] Available at: https://ieeexplore-ieee-org.liverpool.idm.oclc.org/stamp/stamp.jsp?tp=&arnumber=6363095 [Accessed 04 Aug 2018].
 BYOD Survey (2012). [Online] Available at: https://www.liebsoft.com/BYOD_survey/ [Accessed 03 Aug 2018].
