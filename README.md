@@ -1,6 +1,7 @@
 ***
 # Mobile Devices and the Enterprise
 ***
+
 ![Mobile Device and the Enterprise](https://github.com/mrkem598/enterprise/blob/master/mobiledevice.jpg)
 
 
